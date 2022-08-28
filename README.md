@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KyleWorldd
-- 👀 I’m interested in ...data analytics and compluter networking
-- 🌱 I’m currently learning ...SQL and PowerBI
+- 👋 Hi, I’m @Kw2x
+- 👀 I’m interested in ... backend and full stack web development
+- 🌱 I’m currently learning ...HTML, CSS, JS, and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
